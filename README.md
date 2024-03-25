@@ -1,4 +1,4 @@
-# TRAFFIC - SIGN - RECOGNIZATION
+# TRAFFIC - SIGN - RECOGNIZATION - using cnn algorithm
 # traffic sign classification in images
 # 1. pandas
 pip install pandas

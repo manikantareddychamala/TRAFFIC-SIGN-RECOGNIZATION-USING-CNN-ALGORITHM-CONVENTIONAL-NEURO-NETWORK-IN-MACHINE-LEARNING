@@ -1,7 +1,8 @@
-# TRAFFIC - SIGN - RECOGNIZATION - using cnn algorithm [
-![image](https://github.com/manikantareddychamala/TRAFFIC-SIGN-RECOGNIZATION-USING-CNN-ALGORITHM-CONVENTIONAL-NEURO-NETWORK-IN-MACHINE-LEARNING/assets/162694056/19c83f1c-159a-443c-bda9-82fbf63eed13)
-](url)
+# TRAFFIC - SIGN - RECOGNIZATION - using cnn algorithm 
+
 # traffic sign classification in images
+![image](https://github.com/manikantareddychamala/TRAFFIC-SIGN-RECOGNIZATION-USING-CNN-ALGORITHM-CONVENTIONAL-NEURO-NETWORK-IN-MACHINE-LEARNING/assets/162694056/19c83f1c-159a-443c-bda9-82fbf63eed13)
+        ![image](https://github.com/manikantareddychamala/TRAFFIC-SIGN-RECOGNIZATION-USING-CNN-ALGORITHM-CONVENTIONAL-NEURO-NETWORK-IN-MACHINE-LEARNING/assets/162694056/8076b34a-249d-49b7-8acb-eb7901921808)
 # 1. pandas
 pip install pandas
 # 2. pillow

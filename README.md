@@ -1,6 +1,5 @@
 # TRAFFIC - SIGN - RECOGNIZATION
 # traffic sign classification in images
-# PANDAS
 # 1. pandas
 pip install pandas
 # 2. pillow
